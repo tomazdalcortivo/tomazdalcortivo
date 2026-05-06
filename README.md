@@ -6,10 +6,6 @@ Atualmente focado no desenvolvimento de APIs robustas com Java e Spring Boot, al
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomazdalcortivo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazdalcortivo&layout=compact&langs_count=10&theme=tokyonight" alt="Principais Linguagens" height="175" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomazdalcortivo&theme=tokyonight" alt="GitHub Streak" />
 </p>
