@@ -12,9 +12,6 @@ Alongside my professional work, I am pursuing my Master's degree, conducting aca
 *   **Environment:** Proud Linux daily driver and open-source enthusiast.
 
 
-<a href="https://github.com/tomazdalcortivo">
-  <img src="https://streak-stats.demolab.com/?user=tomazdalcortivo&theme=tokyonight&v=999" alt="GitHub Streak" />
-</a>
 
 ### 🛠️ Tech Stack & Tools
 
