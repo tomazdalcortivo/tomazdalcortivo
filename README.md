@@ -12,11 +12,9 @@ Alongside my professional work, I am pursuing my Master's degree, conducting aca
 *   **Environment:** Proud Linux daily driver and open-source enthusiast.
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomazdalcortivo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tomazdalcortivo&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -30,7 +28,7 @@ Alongside my professional work, I am pursuing my Master's degree, conducting aca
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-tomaz-dal-cortivo-8114882a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/ptdcortivo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/tomazdalcortivo/" target="_blank">
