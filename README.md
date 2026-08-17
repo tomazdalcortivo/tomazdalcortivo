@@ -11,9 +11,7 @@ Alongside my professional work, I am pursuing my Master's degree, conducting aca
 *   **Security Research:** Exploring penetration testing, electromagnetic leakage, and vulnerability analysis within IoT environments.
 *   **Environment:** Proud Linux daily driver and open-source enthusiast.
 
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tomazdalcortivo&theme=tokyonight&v=1)](https://github.com/tomazdalcortivo)
---- 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomazdalcortivo&theme=tokyonight&show_icons=true)](https://github.com/tomazdalcortivo)
 
 ### 🛠️ Tech Stack & Tools
 
